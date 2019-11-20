@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--****************************************-->
+<!--   File    : LED-Polyhedron.fsproj      -->
+<!--   Format  : TopoR Project file         -->
+<!--   Version : 2                          -->
+<!--   Program : TopoR Lite 7.0.18508       -->
+<!--   Date    : Tuesday, November 19, 2019 -->
+<!--   Time    : 16:42                      -->
+<!--****************************************-->
+
+<Project>
+   <Version current="2"/>
+   <GUID>{CB5D2560-0961-4F60-BA73-F6D32A3629BD}</GUID>
+   <Documents>
+      <Section name="PCB" isExpanded="true">
+         <File path=".\LED-Polyhedron.fsx" isopened="0" dateChange="2019-11-19 05:36:21"/>
+         <File path=".\LED-Polyhedron_1250-7s.fsx" isopened="0" dateChange="2019-11-19 16:42:11"/>
+      </Section>
+      <Section name="AutoRouting" isExpanded="false">
+         <File path=".\autoroute_191119052915\LED-Polyhedron_1378-5s.fsb" isopened="0" dateChange="2019-11-19 05:29:19"/>
+         <File path=".\autoroute_191119053628\LED-Polyhedron_1250-7s.fsb" isopened="0" dateChange="2019-11-19 16:34:23"/>
+      </Section>
+   </Documents>
+</Project>
